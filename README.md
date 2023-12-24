@@ -1,5 +1,5 @@
 NutriMate
-berisikan kalkulator sederhana untuk menghitung nutrisi pada tubuh anda, program ini dapat memberikan rekomendasi waktu yg makan tepat pada tubuh anda
+Kalkulator sederhana Penghitung Nutrisi tubuh anda
 
 by azhar
 
